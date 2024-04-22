@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: black;
+    font-size: 40px;
+    color: rgb(56, 228, 228);
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    background-image: linear-gradient(to right, rgb(227, 252, 2), rgb(201, 38, 38));
+    font-size: 25px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    -webkit-text-fill-color: transparent;
+    background-clip:text;
+
+
+}
